@@ -1,0 +1,22 @@
+{
+  "name": "demo-gps-tracking",
+  "version": "1.0.0",
+  "description": "Nikhil Baisoya GPS Tracking Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhilb9/demo-gps-tracking.git"
+  },
+  "author": "Nikhil Baisoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhilb9/demo-gps-tracking/issues"
+  },
+  "homepage": "https://github.com/Nikhilb9/demo-gps-tracking#readme",
+  "dependencies": {
+    "gps-tracking": "^1.1.1"
+  }
+}
