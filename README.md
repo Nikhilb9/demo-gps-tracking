@@ -6,7 +6,7 @@ cd /path/to/projects
 git clone https://github.com/Nikhilb9/demo-gps-tracking.git
 cd demo-gps-tracking
 npm install
-node index.js
+node server.js
 ```
 
 That's all. 
